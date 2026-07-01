@@ -1,0 +1,18 @@
+{
+  "name": "ola-cruise-multi-destination-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "Multi-Destination Cruise Options 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "ola-cruise-multi-destination",
+      "source": "./plugins/ola-cruise-multi-destination",
+      "description": "Explore various cruise options that visit multiple exciting destinations. Ideal for travelers looking to maximize their experience with diverse itineraries.",
+      "version": "0.1.0"
+    }
+  ]
+}
